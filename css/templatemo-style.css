@@ -147,6 +147,7 @@ p{
 #hero {
   background-image: url(../img/the-town-bg-01.jpg);
   background-repeat: no-repeat;
+  background-attachment:fixed;
   height: 100vh;
   min-height: 375px;
   position: relative;
